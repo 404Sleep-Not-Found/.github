@@ -69,14 +69,16 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
 
 ## 👥 Members · สมาชิก
 
+<!-- MEMBERS-DATA {"extra":[{"login":"thanachotsienop-hub","name":"Thanachot Sienop","role":"Team Member"},{"login":"thanathorncheen-glitch","name":"Thanathorn Cheente","role":"Team Member"},{"login":"frit-01","name":"frit-01","role":"Team Member"},{"login":"rahatburanabenya-sudo","name":"rahatburanabenya-sudo","role":"Team Member"}]} -->
+<!-- MEMBERS:START -->
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/NexwestLedgerCoreCompanyLimited">
         <img src="https://github.com/NexwestLedgerCoreCompanyLimited.png?size=100" width="80" alt="" /><br />
-        <sub><b>Nai Natthawut</b></sub>
+        <sub><b>Natthawut Ngamoiu</b></sub>
       </a><br />
-      <sub>Full-stack · Network & System</sub>
+      <sub>Full-stack Developer / Network &amp; System Engineer</sub>
     </td>
     <td align="center">
       <a href="https://github.com/bbk865327-byte">
@@ -125,6 +127,7 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
     <td></td>
   </tr>
 </table>
+<!-- MEMBERS:END -->
 
 ---
 
