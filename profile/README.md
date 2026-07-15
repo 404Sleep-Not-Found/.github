@@ -95,14 +95,21 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
       <sub>Junior backend developer</sub>
     </td>
     <td align="center">
+      <a href="https://github.com/rahatburanabenya-sudo">
+        <img src="https://github.com/rahatburanabenya-sudo.png?size=100" width="80" alt="" /><br />
+        <sub><b>Rahart Buranabenya</b></sub>
+      </a><br />
+      <sub>Team Member</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/thanachotsienop-hub">
         <img src="https://github.com/thanachotsienop-hub.png?size=100" width="80" alt="" /><br />
         <sub><b>Thanachot Sienop</b></sub>
       </a><br />
       <sub>Team Member</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/thanathorncheen-glitch">
         <img src="https://github.com/thanathorncheen-glitch.png?size=100" width="80" alt="" /><br />
@@ -114,13 +121,6 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
       <a href="https://github.com/frit-01">
         <img src="https://github.com/frit-01.png?size=100" width="80" alt="" /><br />
         <sub><b>frit-01</b></sub>
-      </a><br />
-      <sub>Team Member</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rahatburanabenya-sudo">
-        <img src="https://github.com/rahatburanabenya-sudo.png?size=100" width="80" alt="" /><br />
-        <sub><b>rahatburanabenya-sudo</b></sub>
       </a><br />
       <sub>Team Member</sub>
     </td>
