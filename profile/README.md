@@ -104,16 +104,16 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/thanathorncheen-glitch">
+        <img src="https://github.com/thanathorncheen-glitch.png?size=100" width="80" alt="" /><br />
+        <sub><b>thanathorncheen-glitch</b></sub>
+      </a><br />
+      <sub>Full Stack Developer </sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/thanachotsienop-hub">
         <img src="https://github.com/thanachotsienop-hub.png?size=100" width="80" alt="" /><br />
         <sub><b>Thanachot Sienop</b></sub>
-      </a><br />
-      <sub>Team Member</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/thanathorncheen-glitch">
-        <img src="https://github.com/thanathorncheen-glitch.png?size=100" width="80" alt="" /><br />
-        <sub><b>Thanathorn Cheente</b></sub>
       </a><br />
       <sub>Team Member</sub>
     </td>
