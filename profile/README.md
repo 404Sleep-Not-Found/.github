@@ -120,9 +120,9 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
     <td align="center">
       <a href="https://github.com/frit-01">
         <img src="https://github.com/frit-01.png?size=100" width="80" alt="" /><br />
-        <sub><b>frit-01</b></sub>
+        <sub><b>Jirayos Tippason</b></sub>
       </a><br />
-      <sub>Team Member</sub>
+      <sub>Project Manager</sub>
     </td>
     <td></td>
   </tr>
