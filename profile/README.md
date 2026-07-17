@@ -92,7 +92,7 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
         <img src="https://github.com/V1stor1a.png?size=100" width="80" alt="" /><br />
         <sub><b>Thananan Jansoongnern</b></sub>
       </a><br />
-      <sub>Junior backend developer</sub>
+      <sub>Junior Ai/ML engineer</sub>
     </td>
     <td align="center">
       <a href="https://github.com/rahatburanabenya-sudo">
