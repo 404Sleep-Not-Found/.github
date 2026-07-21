@@ -99,7 +99,7 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
         <img src="https://github.com/rahatburanabenya-sudo.png?size=100" width="80" alt="" /><br />
         <sub><b>Rahart Buranabenya</b></sub>
       </a><br />
-      <sub>Full stack developer</sub>
+      <sub>Full Stack Developer</sub>
     </td>
   </tr>
   <tr>
