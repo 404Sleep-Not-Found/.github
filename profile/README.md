@@ -124,7 +124,13 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
       </a><br />
       <sub>Project Manager</sub>
     </td>
-    <td></td>
+    <td align="center">
+      <a href="https://github.com/SunnyVV99">
+        <img src="https://github.com/SunnyVV99.png?size=100" width="80" alt="" /><br />
+        <sub><b>Siththipon Chaiporn</b></sub>
+      </a><br />
+      <sub>Team Member</sub>
+    </td>
   </tr>
 </table>
 <!-- MEMBERS:END -->
