@@ -15,11 +15,11 @@
 
 ## About Us &nbsp;·&nbsp; เกี่ยวกับเรา
 
-We are **404 SLEEP NOT FOUND** — a builder team from Thailand creating software, hardware, and systems, and stepping into bootcamps, hackathons, and innovation competitions to collect real battle experience.
+We are **404 SLEEP NOT FOUND** — a builder team from Thailand. We actively seek out projects and competitions — bootcamps, hackathons, innovation contests — to sharpen our skills, gain real experience, and prove what we can build. Every project here is a prototype we designed and shipped ourselves from idea to deployment.
 
-พวกเราคือทีม **404 SLEEP NOT FOUND** — ทีมนักสร้างจากประเทศไทย ที่สร้างทั้งซอฟต์แวร์ ฮาร์ดแวร์ และพัฒนาระบบ พร้อมลงสนามบูตแคมป์ แฮกกาธอน และเวทีแข่งขันนวัตกรรม เพื่อเก็บประสบการณ์จริงให้ได้มากที่สุด
+พวกเราคือทีม **404 SLEEP NOT FOUND** — ทีมนักสร้างจากประเทศไทย เราหาโครงการและลงสมัครเข้าร่วมการแข่งขันอยู่เสมอ ทั้งบูตแคมป์ แฮกกาธอน และเวทีประกวดนวัตกรรม เพื่อฝึกฝนความสามารถ เสริมความรู้ และพิสูจน์ว่าเราสร้างอะไรออกมาได้จริง ทุกโปรเจกต์ที่นี่คือต้นแบบที่ทีมออกแบบ ลงมือทำ และ deploy เองทั้งหมด
 
-We are at the start of our journey: hungry to ship, fast to learn, and honest about where we are — every win (and every loss) gets logged here and on our portfolio site.
+We are at the start of our journey: hungry to ship, fast to learn, and honest about where we are — every win and every loss gets logged here and on our portfolio site.
 
 เราเพิ่งเริ่มต้นเส้นทางนี้ — พร้อมลุย เรียนรู้ไว และบันทึกทุกสนามตามความจริง ทั้งชนะและแพ้ จะถูกเก็บไว้ที่นี่และบนเว็บพอร์ตโฟลิโอของทีม
 
@@ -32,8 +32,8 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
 
 ### Competition Journey · เส้นทางการแข่งขัน
 
-> Our experience log — this section grows every time we compete.  
-> สมุดบันทึกประสบการณ์ของทีม — โตขึ้นทุกครั้งที่เราลงแข่ง
+> Our experience log — we actively hunt for competitions to join. This section grows every time we enter the arena.  
+> สมุดบันทึกประสบการณ์ — เราหาโครงการและลงสมัครแข่งเพื่อเสริมความสามารถ ตารางนี้โตขึ้นทุกครั้งที่เราลงสนาม
 
 | Year · ปี | Event · รายการ | Result · ผลงาน |
 |---|---|---|
