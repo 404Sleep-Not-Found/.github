@@ -38,9 +38,12 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
 > Open for freelance and contract work. If you have a project — big or small — reach out.  
 > รับงานฟรีแลนซ์และงาน Outsource — มีโปรเจกต์อยากให้ทีมช่วยสร้าง ติดต่อเราได้เลย
 
-| Year · ปี | Event · รายการ | Result · ผลงาน |
+| Year · ปี | Event · รายการ | Status · สถานะ |
 |---|---|---|
-| 2026 | Innovation Competition 2026 | First arena — in progress · สนามแรก — กำลังลุย |
+| 2026 | **Nitmx Fintech Bootcamp 2026** | Applied · สมัครแล้ว |
+| 2026 | **Jump AIS Hackathon 2026** | Applied · สมัครแล้ว |
+| 2026 | **PDPA Hackathon 2026** | Applied · สมัครแล้ว |
+| 2026 | **OIC InsurTech Award 2026** | Applied · สมัครแล้ว |
 
 ---
 
