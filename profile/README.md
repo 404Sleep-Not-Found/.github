@@ -15,9 +15,9 @@
 
 ## About Us &nbsp;·&nbsp; เกี่ยวกับเรา
 
-We are **404 SLEEP NOT FOUND** — a builder team from Thailand. We actively seek out projects and competitions — bootcamps, hackathons, innovation contests — to sharpen our skills, gain real experience, and prove what we can build. Every project here is a prototype we designed and shipped ourselves from idea to deployment.
+We are **404 SLEEP NOT FOUND** — a builder team from Thailand. We actively seek projects and sign up for competitions — bootcamps, hackathons, innovation contests — to sharpen our skills, gain real-world experience, and prove we can deliver real products to real clients. We're open for freelance and contract work. Every project here is a prototype we designed, built, and deployed ourselves.
 
-พวกเราคือทีม **404 SLEEP NOT FOUND** — ทีมนักสร้างจากประเทศไทย เราหาโครงการและลงสมัครเข้าร่วมการแข่งขันอยู่เสมอ ทั้งบูตแคมป์ แฮกกาธอน และเวทีประกวดนวัตกรรม เพื่อฝึกฝนความสามารถ เสริมความรู้ และพิสูจน์ว่าเราสร้างอะไรออกมาได้จริง ทุกโปรเจกต์ที่นี่คือต้นแบบที่ทีมออกแบบ ลงมือทำ และ deploy เองทั้งหมด
+พวกเราคือทีม **404 SLEEP NOT FOUND** — ทีมนักสร้างจากประเทศไทย เราหาโปรเจกต์และลงสมัครแข่งขันอยู่เสมอ ทั้งบูตแคมป์ แฮกกาธอน และเวทีประกวดนวัตกรรม เพื่อลับคมฝีมือ เก็บประสบการณ์จริง และพิสูจน์ว่าเราส่งงานให้ลูกค้าจริงได้ เรารับงานฟรีแลนซ์และงาน Outsource ทุกโปรเจกต์ที่นี่คือต้นแบบที่ทีมออกแบบ ลงมือทำ และ deploy เองทั้งหมด
 
 We are at the start of our journey: hungry to ship, fast to learn, and honest about where we are — every win and every loss gets logged here and on our portfolio site.
 
@@ -32,8 +32,11 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
 
 ### Competition Journey · เส้นทางการแข่งขัน
 
-> Our experience log — we actively hunt for competitions to join. This section grows every time we enter the arena.  
-> สมุดบันทึกประสบการณ์ — เราหาโครงการและลงสมัครแข่งเพื่อเสริมความสามารถ ตารางนี้โตขึ้นทุกครั้งที่เราลงสนาม
+> We actively seek projects and sign up for competitions — not just to compete, but to build real products for real clients. Every arena we enter sharpens our skills and proves we can deliver.  
+> เราหาโครงการและลงสมัครแข่งขันอยู่เสมอ — ไม่ใช่แค่เพื่อแข่ง แต่เพื่อรับงานจริง สร้างของจริงให้ลูกค้าจริง ทุกสนามที่ลงคือการลับคมฝีมือและพิสูจน์ว่าเราส่งงานได้
+
+> Open for freelance and contract work. If you have a project — big or small — reach out.  
+> รับงานฟรีแลนซ์และงาน Outsource — มีโปรเจกต์อยากให้ทีมช่วยสร้าง ติดต่อเราได้เลย
 
 | Year · ปี | Event · รายการ | Result · ผลงาน |
 |---|---|---|
