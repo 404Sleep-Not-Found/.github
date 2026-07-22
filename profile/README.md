@@ -7,69 +7,90 @@
 ***We build while the world sleeps.***
 **พวกเราลงมือสร้าง ขณะที่โลกกำลังหลับ**
 
-[🌐 404sleepnotfound.com](https://404sleepnotfound.com) · [✉️ nongnine260@gmail.com](mailto:nongnine260@gmail.com)
+[🌐 404sleepnotfound.com](https://404sleepnotfound.com) · [📧 nongnine260@gmail.com](mailto:nongnine260@gmail.com)
 
 </div>
 
 ---
 
-## 🇬🇧 About Us
+## 🚀 Our Projects · ผลงานของเรา
 
-We are **404 SLEEP NOT FOUND** — a builder team from Thailand 🇹🇭 creating **software, hardware, and systems**, and stepping into bootcamps, hackathons, and innovation competitions to collect real battle experience.
+> Every project here is a prototype built from scratch by the team — from idea to deployed product. We build to learn, compete, and prove what we can ship.
 
-We are at the start of our journey: hungry to ship, fast to learn, and honest about where we are — every win (and every loss) gets logged here and on our portfolio site.
-
-### What we build
-
-| | |
-|---|---|
-| 💻 **Software** | Web apps and full-stack products — TypeScript, React, Python, Go, and Cloudflare-native backends |
-| 🔩 **Hardware** | Prototypes, embedded & IoT experiments for competition builds |
-| 🌐 **Systems** | Network & system engineering, infrastructure, and automation |
-| 🤖 **AI & Data** | ML experiments and AI-assisted tooling |
-
-### 🏆 Competition Journey
-
-> Our experience log — this section grows every time we compete.
-
-| Year | Event | Result |
-|---|---|---|
-| 2026 | Innovation Competition 2026 | 🥾 First arena — in progress |
-
-👉 **Meet every member and their full portfolio at [404sleepnotfound.com](https://404sleepnotfound.com)** — each profile shows languages, projects, and verified certificates.
+ทุกโปรเจกต์ที่นี่คือต้นแบบที่ทีมสร้างเองทั้งหมด — ตั้งแต่ไอเดียจนถึง deploy จริง เราสร้างเพื่อเรียนรู้ ลงแข่งขัน และพิสูจน์ว่าเราทำอะไรได้บ้าง
 
 ---
 
-## 🇹🇭 เกี่ยวกับเรา
+### 🛡️ Breach72 — PDPA Incident Response Command Center
 
-พวกเราคือทีม **404 SLEEP NOT FOUND** — ทีมนักสร้างจากประเทศไทย 🇹🇭 ที่สร้างทั้ง**ซอฟต์แวร์ ฮาร์ดแวร์ และพัฒนาระบบ** พร้อมลงสนามบูตแคมป์ แฮกกาธอน และเวทีแข่งขันนวัตกรรม เพื่อเก็บประสบการณ์จริงให้ได้มากที่สุด
+<!-- ![Breach72](https://img.shields.io/badge/status-live-success) -->
+[![Live Demo](https://img.shields.io/badge/demo-pdpa.404sleepnotfound.com-22d3ee?style=flat-square)](https://pdpa.404sleepnotfound.com)
+[![Stack](https://img.shields.io/badge/stack-Next.js_16_•_React_19_•_CF_Workers_•_D1_•_Drizzle_•_Tailwind_4-6366f1?style=flat-square)](#)
 
-เราเพิ่งเริ่มต้นเส้นทางนี้ — พร้อมลุย เรียนรู้ไว และบันทึกทุกสนามตามความจริง ทั้งชนะและแพ้ จะถูกเก็บไว้ที่นี่และบนเว็บพอร์ตโฟลิโอของทีม
+**PDPA Hackathon Track 4: Incident Response & Breach** — ระบบรับมือเหตุละเมิดข้อมูลส่วนบุคคลภายในกรอบ 72 ชั่วโมง สำหรับ DPO, Incident Commander และ Security Team
 
-### สิ่งที่เราสร้าง
-
-| | |
+| ความสามารถ | รายละเอียด |
 |---|---|
-| 💻 **ซอฟต์แวร์** | เว็บแอปและงาน full-stack — TypeScript, React, Python, Go และระบบหลังบ้านบน Cloudflare |
-| 🔩 **ฮาร์ดแวร์** | ต้นแบบสิ่งประดิษฐ์ งาน embedded และ IoT สำหรับเวทีแข่งขัน |
-| 🌐 **พัฒนาระบบ** | Network & System Engineering โครงสร้างพื้นฐาน และระบบอัตโนมัติ |
-| 🤖 **AI และข้อมูล** | การทดลองด้าน Machine Learning และเครื่องมือที่ใช้ AI ช่วย |
-
-### 🏆 เส้นทางการแข่งขัน
-
-> สมุดบันทึกประสบการณ์ของทีม — โตขึ้นทุกครั้งที่เราลงแข่ง
-
-| ปี | รายการ | ผลงาน |
-|---|---|---|
-| 2026 | Innovation Competition 2026 | 🥾 สนามแรกของพวกเรา — กำลังลุย |
-
-👉 **ดูโปรไฟล์เต็มของสมาชิกทุกคนได้ที่ [404sleepnotfound.com](https://404sleepnotfound.com)** — ภาษา ผลงาน และใบเซอร์ที่ตรวจสอบได้ ของแต่ละคน
+| ⏱️ **Command Center** | นาฬิกา 72 ชั่วโมงนับจากเวลาที่องค์กรทราบเหตุ |
+| 📋 **Decision Tree** | ประเมิน Severity × Likelihood + checklist PDPA 8 ข้อ + จุดตัดสินใจของ Controller |
+| 📖 **Playbook & Runbook** | แบ่งเฟส 0–4, 4–24, 24–48, 48–72 ชั่วโมง และหลัง 72 ชั่วโมง |
+| 📨 **Communication Templates** | ร่างรายงานสำหรับหน่วยงานกำกับ เจ้าของข้อมูล Controller/Processor และผู้บริหาร |
+| 🔒 **Guardrail** | ห้าม export เมื่อข้อมูลไม่ครบหรือยังไม่มีคำตัดสินใจจากผู้มีอำนาจ |
+| 📜 **Audit Trail** | บันทึกทุกการกระทำ — เปิดเหตุ, ประเมิน, อนุมัติ, override, export |
 
 ---
 
-## 👥 Members · สมาชิก
+### 💬💸 ChatUp — แชท + กระเป๋าเงินดิจิทัล
 
-<!-- MEMBERS-DATA {"extra":[{"login":"thanachotsienop-hub","name":"Thanachot Sienop","role":"Team Member"},{"login":"thanathorncheen-glitch","name":"Thanathorn Cheente","role":"Team Member"},{"login":"frit-01","name":"frit-01","role":"Team Member"},{"login":"rahatburanabenya-sudo","name":"rahatburanabenya-sudo","role":"Team Member"}]} -->
+<!-- ![ChatUp](https://img.shields.io/badge/status-building-yellow) -->
+[![Goal](https://img.shields.io/badge/goal-chatup.404sleepnotfound.com-f59e0b?style=flat-square)](#)
+[![Stack](https://img.shields.io/badge/stack-React_19_•_CF_Workers_•_D1_•_KV_•_R2_•_Durable_Objects_•_PWA-8b5cf6?style=flat-square)](#)
+
+**WeChat เวอร์ชันไทย** — แอปแชท + กระเป๋าเงินดิจิทัลเพื่อ Financial Inclusion กลุ่มเป้าหมายคือคนที่ไม่มีบัญชีธนาคาร
+
+| ความสามารถ | รายละเอียด |
+|---|---|
+| 💬 **แชท** | ข้อความส่วนตัว, กลุ่ม, แชร์รูป, ส่งไฟล์ — UI ใหญ่ รองรับเสียงอ่าน |
+| 💰 **กระเป๋าเงิน** | โอนเงินในแชท, สแกน QR จ่าย, อั่งเปา, จ่ายบิล — ครบในแอปเดียว |
+| 🌏 **5 ภาษา** | ไทย (หลัก) + EN, เมียนมา, ลาว, เขมร |
+| 🔐 **สมัครง่าย** | ใช้แค่เบอร์มือถือ — ไม่ต้องมีบัญชีธนาคาร |
+| 🏗️ **Monorepo** | pnpm workspaces: `apps/web` (PWA), `apps/api` (Worker), `packages/shared` |
+
+---
+
+### 💰 DocMoney — จัดการเงินส่วนตัวแบบไทยๆ
+
+<!-- ![DocMoney](https://img.shields.io/badge/status-prototype-informational) -->
+[![Stack](https://img.shields.io/badge/stack-PHP_8_•_MySQL_•_Google_OAuth_•_Vanilla_JS_•_PhpSpreadsheet-096353?style=flat-square)](#)
+
+**Personal Finance Tracker** — เว็บแอปจัดการรายรับ-รายจ่ายส่วนตัว ออกแบบให้สวย ใช้ง่าย สบายตา เน้นผู้ใช้ชาวไทย
+
+| ความสามารถ | รายละเอียด |
+|---|---|
+| 🔐 **Google OAuth** | ล็อกอินด้วยบัญชี Google — ไม่ต้องจำรหัสผ่าน |
+| 📊 **Dashboard** | สรุปยอดรายรับ-รายจ่าย แยกตามหมวดหมู่ รายเดือน |
+| 🏷️ **หมวดหมู่กำหนดเอง** | สร้างหมวดหมู่รายรับ/รายจ่ายตามต้องการ |
+| 🧾 **อัปโหลดสลิป** | แนบรูปหลักฐานในแต่ละรายการ |
+| 📄 **Export Excel** | ส่งออกรายการเป็นไฟล์ .xlsx |
+| 🧮 **โมดูลภาษี** | คำนวณภาษีคร่าวๆ จากรายรับ-รายจ่าย |
+| 📱 **Responsive** | รองรับทุกหน้าจอ — UI โทน Teal Premium ฟอนต์ Kanit |
+
+---
+
+### 🎨 Portfolio — Team Showcase
+
+[![Live](https://img.shields.io/badge/live-404sleepnotfound.com-22d3ee?style=flat-square)](https://404sleepnotfound.com)
+[![Stack](https://img.shields.io/badge/stack-Vite_•_React_18_•_Tailwind_•_Framer_Motion-06b6d4?style=flat-square)](#)
+
+เว็บโชว์พอร์ตของทีม — แยกแท็บสมาชิกแต่ละคน มี animation เลื่อน/นับสกอร์, ผลงาน, certificate แบบ verify ได้, deploy บน Cloudflare Pages
+
+👉 **[ดูเว็บพอร์ต](https://404sleepnotfound.com)** — profile สมาชิกทุกคน พร้อมภาษา ผลงาน และใบเซอร์
+
+---
+
+## 👥 Members · สมาชิก (8 คน)
+
+<!-- MEMBERS-DATA {"extra":[{"login":"thanachotsienop-hub","name":"Thanachot Sienop","role":"Junior Customer Journey Manager"},{"login":"thanathorncheen-glitch","name":"Thanathorn Cheente","role":"Full Stack Developer"},{"login":"frit-01","name":"Jirayos Tippason","role":"Project Manager"},{"login":"rahatburanabenya-sudo","name":"Rahart Buranabenya","role":"Full Stack Developer"}]} -->
 <!-- MEMBERS:START -->
 <table>
   <tr>
@@ -78,7 +99,7 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
         <img src="https://github.com/NexwestLedgerCoreCompanyLimited.png?size=100" width="80" alt="" /><br />
         <sub><b>Natthawut Ngamoiu</b></sub>
       </a><br />
-      <sub>Junior Full-stack Developer / Network &amp; System Engineer</sub>
+      <sub>Junior Full-stack Developer / Network & System Engineer</sub>
     </td>
     <td align="center">
       <a href="https://github.com/bbk865327-byte">
@@ -92,7 +113,7 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
         <img src="https://github.com/V1stor1a.png?size=100" width="80" alt="" /><br />
         <sub><b>Thananan Jansoongnern</b></sub>
       </a><br />
-      <sub>Junior Ai/ML engineer</sub>
+      <sub>Junior AI/ML Engineer</sub>
     </td>
     <td align="center">
       <a href="https://github.com/rahatburanabenya-sudo">
@@ -106,16 +127,16 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
     <td align="center">
       <a href="https://github.com/thanathorncheen-glitch">
         <img src="https://github.com/thanathorncheen-glitch.png?size=100" width="80" alt="" /><br />
-        <sub><b>thanathorncheen-glitch</b></sub>
+        <sub><b>Thanathorn Cheente</b></sub>
       </a><br />
-      <sub>Full Stack Developer </sub>
+      <sub>Full Stack Developer</sub>
     </td>
     <td align="center">
       <a href="https://github.com/thanachotsienop-hub">
         <img src="https://github.com/thanachotsienop-hub.png?size=100" width="80" alt="" /><br />
         <sub><b>Thanachot Sienop</b></sub>
       </a><br />
-      <sub>Junior Customer Journey manager</sub>
+      <sub>Junior Customer Journey Manager</sub>
     </td>
     <td align="center">
       <a href="https://github.com/frit-01">
@@ -134,6 +155,18 @@ We are at the start of our journey: hungry to ship, fast to learn, and honest ab
   </tr>
 </table>
 <!-- MEMBERS:END -->
+
+---
+
+## 🛠️ Tech We Use · สแต็กที่เราใช้
+
+| Layer | Tools |
+|---|---|
+| **Frontend** | React 18/19 · TypeScript · Next.js 16 · Vite · Tailwind CSS · shadcn/ui · Framer Motion · PWA |
+| **Backend** | Cloudflare Workers · itty-router · Hono · Durable Objects · WebSocket |
+| **Data** | Cloudflare D1 (SQLite) · KV · R2 · Drizzle ORM |
+| **Languages** | TypeScript · JavaScript · Python · Go · SQL · C · Rust · Bash |
+| **DevOps** | GitHub Actions · Wrangler · pnpm monorepo · ESLint · Prettier · Vitest |
 
 ---
 
